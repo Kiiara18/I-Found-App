@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315406715748",
+    "project_id": "i-found-526fc",
+    "storage_bucket": "i-found-526fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315406715748:android:ee3e140221b8841a0c4871",
+        "android_client_info": {
+          "package_name": "com.example.i_found"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsrLdUmDSWwCYYqhbX4trb3SyqDgdKQno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
